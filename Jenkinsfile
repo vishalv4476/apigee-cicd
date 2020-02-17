@@ -3,7 +3,7 @@
 pipeline {
     agent any
     tools {
-        maven 'M2'
+        maven 'M3'
         jdk 'JDK'
         nodejs 'NODEJS'
     }
